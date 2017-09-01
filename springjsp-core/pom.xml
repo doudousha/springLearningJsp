@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>springjsp</artifactId>
+        <groupId>com.wangqing</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>springjsp-core</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.acooly</groupId>
+            <artifactId>acooly-component-ds</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.acooly</groupId>
+            <artifactId>acooly-component-web</artifactId>
+        </dependency>
+
+        <!--<dependency>-->
+            <!--<groupId>com.acooly</groupId>-->
+            <!--<artifactId>acooly-component-security</artifactId>-->
+        <!--</dependency>-->
+
+        <!--<dependency>-->
+            <!--<groupId>com.acooly</groupId>-->
+            <!--<artifactId>acooly-component-sso</artifactId>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>com.acooly</groupId>-->
+            <!--<artifactId>acooly-component-dubbo</artifactId>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>com.acooly</groupId>-->
+            <!--<artifactId>acooly-component-mybatis</artifactId>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>com.acooly</groupId>-->
+            <!--<artifactId>acooly-component-appservice</artifactId>-->
+        <!--</dependency>-->
+
+        <!--<dependency>-->
+            <!--<groupId>com.acooly</groupId>-->
+            <!--<artifactId>acooly-component-sms</artifactId>-->
+        <!--</dependency>-->
+
+        <!--<dependency>-->
+            <!--<groupId>com.yiji.fintech.common</groupId>-->
+            <!--<artifactId>fintech-common</artifactId>-->
+            <!--<version>1.0.0-SNAPSHOT</version>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>com.yiji.cnvex.trade</groupId>-->
+            <!--<artifactId>cnvex-trade-facade</artifactId>-->
+            <!--<version>1.1.0-SNAPSHOT</version>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>com.yiji</groupId>-->
+            <!--<artifactId>openapi-framework-facade</artifactId>-->
+            <!--<version>4.0.0-SNAPSHOT</version>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>com.yiji.openapi</groupId>-->
+            <!--<artifactId>openapi-framework-tool</artifactId>-->
+            <!--<version>4.0.0-SNAPSHOT</version>-->
+        <!--</dependency>-->
+    </dependencies>
+
+</project>
